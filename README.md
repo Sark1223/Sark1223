@@ -23,7 +23,7 @@
     <h3 align="center">Tolls</h3>
     <div>
        <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,postgres,github,linux,mysql,nextjs,nodejs,vscode,androidstudio,arduino,blender,github,godot,py,threejs,unity,visualstudio&perline=10" />
+    <img src="https://skillicons.dev/icons?i=discord,postgres,github,mysql,nextjs,nodejs,vscode,androidstudio,arduino,blender,github,godot,py,threejs,unity,visualstudio&perline=10" />
   </a>
     </div>  
 </div>
