@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- Presentation -->
+<div align="center">
+  <h1>Hi!! 🫰 <br> I'm Karla Santos</h1>
+</div>
 
-<!--
-**Sark1223/Sark1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub Stats and Skills -->
+<div align = "center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sark1223&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <!-- Skills -->
+    <h3 align="center">Skills</h3>
+    <div style="display: flex; gap: 10px; align-items: center;">
+      <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
+      <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
+      <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
+    </div>  
+</div>
 
-Here are some ideas to get you started:
+<!-- Contact -->
+<div align="center">
+  <h3 align="center">Contact me</h3>
+  <a href="mailto:santoskarla122308@gmail.com">
+    <img border="0" alt="Email" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
