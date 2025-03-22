@@ -20,7 +20,7 @@
       <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/>
     </div>  
   <!-- Tools -->
-    <h3 align="center">Tolls</h3>
+    <h3 align="center">Tools</h3>
     <div>
        <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,postgres,github,mysql,nextjs,nodejs,vscode,androidstudio,arduino,blender,github,godot,py,threejs,unity,visualstudio&perline=10" />
